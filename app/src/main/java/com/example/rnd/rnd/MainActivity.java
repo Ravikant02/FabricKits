@@ -35,8 +35,8 @@ import java.util.Date;
 public class MainActivity extends AppCompatActivity {
 
     // Note: Your consumer key and secret should be obfuscated in your source code before shipping.
-    private static final String TWITTER_KEY = "Fi3WTUddcXz76lH9AupHibj4F";
-    private static final String TWITTER_SECRET = "1y3ZZVEK8oy5eXrz1Yl5Cq1XCmDyuqEEOb8Up9aaYD5scJ4HCa";
+    private static final String TWITTER_KEY = "KEY HERE";
+    private static final String TWITTER_SECRET = "SECRET KEY HERE";
     private TwitterLoginButton loginButton;
 
     @Override
